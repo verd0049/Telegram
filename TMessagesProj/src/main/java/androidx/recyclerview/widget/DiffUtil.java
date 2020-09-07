@@ -76,7 +76,7 @@ import java.util.List;
  * @see AsyncListDiffer
  */
 public class DiffUtil {
-
+// documentation
     private DiffUtil() {
         // utility class, no instance.
     }
