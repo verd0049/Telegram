@@ -37,6 +37,7 @@ public class AnimatedFileDrawableStream implements FileLoadOperationStream {
 
     public String getFinishedFilePath() {
         return finishedFilePath;
+        //test
     }
 
     public int read(int offset, int readLength) {
