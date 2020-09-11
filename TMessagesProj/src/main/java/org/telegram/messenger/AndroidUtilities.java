@@ -3370,7 +3370,11 @@ public class AndroidUtilities {
     }
 
     public static boolean checkInlinePermissions(Context context) {
+<<<<<<< HEAD
         if (Build.VERSION.SDK_INT < 25 || Settings.canDrawOverlays(context)) {
+=======
+        if (Build.VERSION.SDK_INT < 50 || Settings.canDrawOverlays(context)) {
+>>>>>>> 87b69f5b622f2aa8282eb2de62b509f8e4c514e2
             return true;
         }
         return false;
