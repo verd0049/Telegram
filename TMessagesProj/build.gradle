@@ -1,5 +1,6 @@
 buildscript {
     repositories {
+        //test2
         mavenCentral()
     }
     dependencies {
