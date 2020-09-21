@@ -2,61 +2,61 @@
   {
     "level": "INFO",
     "message": "Start JSON generation. Platform version: 16 min SDK version: x86",
-    "file": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk",
+    "file": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk",
     "tag": "afatDebug|x86"
   },
   {
     "level": "INFO",
-    "message": "rebuilding JSON C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86\\android_gradle_build.json due to:",
-    "file": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk",
+    "message": "rebuilding JSON C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86\\android_gradle_build.json due to:",
+    "file": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk",
     "tag": "afatDebug|x86"
   },
   {
     "level": "INFO",
-    "message": "- expected json C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86\\android_gradle_build.json file is not present, will remove stale json folder",
-    "file": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk",
+    "message": "- expected json C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk",
     "tag": "afatDebug|x86"
   },
   {
     "level": "INFO",
-    "message": "- missing previous command file C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86\\build_command.txt, will remove stale json folder",
-    "file": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk",
+    "message": "- missing previous command file C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86\\build_command.txt, will remove stale json folder",
+    "file": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk",
     "tag": "afatDebug|x86"
   },
   {
     "level": "INFO",
     "message": "- command changed from previous, will remove stale json folder",
-    "file": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk",
+    "file": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk",
     "tag": "afatDebug|x86"
   },
   {
     "level": "INFO",
-    "message": "removing stale contents from \u0027C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86\u0027",
-    "file": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk",
+    "message": "removing stale contents from \u0027C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86\u0027",
+    "file": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk",
     "tag": "afatDebug|x86"
   },
   {
     "level": "INFO",
-    "message": "created folder \u0027C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86\u0027",
-    "file": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk",
+    "message": "created folder \u0027C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86\u0027",
+    "file": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk",
     "tag": "afatDebug|x86"
   },
   {
     "level": "INFO",
-    "message": "executing ndkBuild Executable : C:\\Users\\calvi\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dC:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dC:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Application.mk\nAPP_ABI\u003dx86\nNDK_ALL_ABIS\u003dx86\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-16\nNDK_OUT\u003dC:/hbo-ict/andere shit/AD/Telegram/TMessagesProj/build/intermediates/ndkBuild/afatDebug/obj\nNDK_LIBS_OUT\u003dC:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\build\\intermediates\\ndkBuild\\afatDebug\\lib\nNDK_APPLICATION_MK:\u003djni/Application.mk\nAPP_PLATFORM:\u003dandroid-16\n--jobs\u003d16\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
-    "file": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk",
+    "message": "executing ndkBuild Executable : C:\\Users\\evanv\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dC:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dC:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Application.mk\nAPP_ABI\u003dx86\nNDK_ALL_ABIS\u003dx86\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-16\nNDK_OUT\u003dC:/Users/evanv/Desktop/schoolspul/CIN Opdracht/Telegram/TMessagesProj/build/intermediates/ndkBuild/afatDebug/obj\nNDK_LIBS_OUT\u003dC:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\build\\intermediates\\ndkBuild\\afatDebug\\lib\nNDK_APPLICATION_MK:\u003djni/Application.mk\nAPP_PLATFORM:\u003dandroid-16\n--jobs\u003d16\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk",
     "tag": "afatDebug|x86"
   },
   {
     "level": "INFO",
-    "message": "Executable : C:\\Users\\calvi\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dC:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dC:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Application.mk\nAPP_ABI\u003dx86\nNDK_ALL_ABIS\u003dx86\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-16\nNDK_OUT\u003dC:/hbo-ict/andere shit/AD/Telegram/TMessagesProj/build/intermediates/ndkBuild/afatDebug/obj\nNDK_LIBS_OUT\u003dC:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\build\\intermediates\\ndkBuild\\afatDebug\\lib\nNDK_APPLICATION_MK:\u003djni/Application.mk\nAPP_PLATFORM:\u003dandroid-16\n--jobs\u003d16\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
-    "file": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk",
+    "message": "Executable : C:\\Users\\evanv\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dC:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dC:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Application.mk\nAPP_ABI\u003dx86\nNDK_ALL_ABIS\u003dx86\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-16\nNDK_OUT\u003dC:/Users/evanv/Desktop/schoolspul/CIN Opdracht/Telegram/TMessagesProj/build/intermediates/ndkBuild/afatDebug/obj\nNDK_LIBS_OUT\u003dC:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\build\\intermediates\\ndkBuild\\afatDebug\\lib\nNDK_APPLICATION_MK:\u003djni/Application.mk\nAPP_PLATFORM:\u003dandroid-16\n--jobs\u003d16\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk",
     "tag": "afatDebug|x86"
   },
   {
     "level": "INFO",
-    "message": "JSON generation completed with problem. Exception: Build command failed.\nError while executing process C:\\Users\\calvi\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\ndk-build.cmd with arguments {NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/hbo-ict/andere shit/AD/Telegram/TMessagesProj/build/intermediates/ndkBuild/afatDebug/obj NDK_LIBS_OUT\u003dC:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\build\\intermediates\\ndkBuild\\afatDebug\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 --jobs\u003d16 APP_SHORT_COMMANDS\u003dfalse LOCAL_SHORT_COMMANDS\u003dfalse -B -n}\nAndroid NDK: Your APP_BUILD_SCRIPT points to an unknown file: C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk    \n\nC:/Users/calvi/AppData/Local/Android/Sdk/ndk/21.1.6352462/build//../build/core/add-application.mk:88: *** Android NDK: Aborting...    .  Stop.\n",
-    "file": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk",
+    "message": "JSON generation completed with problem. Exception: Build command failed.\nError while executing process C:\\Users\\evanv\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\ndk-build.cmd with arguments {NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/evanv/Desktop/schoolspul/CIN Opdracht/Telegram/TMessagesProj/build/intermediates/ndkBuild/afatDebug/obj NDK_LIBS_OUT\u003dC:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\build\\intermediates\\ndkBuild\\afatDebug\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 --jobs\u003d16 APP_SHORT_COMMANDS\u003dfalse LOCAL_SHORT_COMMANDS\u003dfalse -B -n}\nAndroid NDK: Your APP_BUILD_SCRIPT points to an unknown file: C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk    \n\nC:/Users/evanv/AppData/Local/Android/Sdk/ndk/21.1.6352462/build//../build/core/add-application.mk:88: *** Android NDK: Aborting...    .  Stop.\n",
+    "file": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk",
     "tag": "afatDebug|x86"
   }
 ]
