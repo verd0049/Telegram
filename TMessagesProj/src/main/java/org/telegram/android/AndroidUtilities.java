@@ -1035,4 +1035,8 @@ public class AndroidUtilities {
         }
         return true;
     }
+
+    public String function(){
+        return "hoi";
+    }
 }
