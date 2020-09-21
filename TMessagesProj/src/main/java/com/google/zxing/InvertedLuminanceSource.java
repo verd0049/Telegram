@@ -84,5 +84,6 @@ public final class InvertedLuminanceSource extends LuminanceSource {
   public LuminanceSource rotateCounterClockwise45() {
     return new InvertedLuminanceSource(delegate.rotateCounterClockwise45());
   }
-
+  
+ja yeet
 }
