@@ -30,7 +30,7 @@ public class JavaAudioDeviceModule implements AudioDeviceModule {
     return new Builder(context);
   }
 
-  //builds the device
+  //builds the device module
   public static class Builder {
     private final Context context;
     private final AudioManager audioManager;
