@@ -30,7 +30,7 @@ public class JavaAudioDeviceModule implements AudioDeviceModule {
     return new Builder(context);
   }
 
-  //builds the device
+  //builds the device module
   public static class Builder {
     private final Context context;
     private final AudioManager audioManager;
@@ -48,6 +48,7 @@ public class JavaAudioDeviceModule implements AudioDeviceModule {
     private boolean useStereoInput;
     private boolean useStereoOutput;
 
+    //fhwdohgfiwhfihfiqhfqhefhqiohcaodsfiodhfioqehqibffhefiohfhwfp
     private Builder(Context context) {
       this.context = context;
       this.audioManager = (AudioManager) context.getSystemService(Context.AUDIO_SERVICE);
