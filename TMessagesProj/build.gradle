@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+=======
+buildscript {
+    repositories {
+        //test2
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.2.3'
+    }
+}
+>>>>>>> dev
 apply plugin: 'com.android.application'
 
 repositories {
@@ -140,7 +152,14 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
 
+<<<<<<< HEAD
         release {
+=======
+        foss {
+            //test
+            // comment
+            //test 
+>>>>>>> dev
             debuggable false
             jniDebuggable false
             signingConfig signingConfigs.release
