@@ -4,14 +4,14 @@
   "buildSettings": {
     "environmentVariables": []
   },
-  "cxxBuildFolder": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86",
+  "cxxBuildFolder": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86",
   "info": {
     "abi": "X86",
     "bitness": 32,
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86",
+  "originalCxxBuildFolder": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86",
   "variant": {
     "buildSystemArgumentList": [
       "NDK_APPLICATION_MK:\u003djni/Application.mk",
@@ -25,20 +25,20 @@
     "isDebuggableEnabled": true,
     "module": {
       "buildSystem": "NDK_BUILD",
-      "cmakeToolchainFile": "C:\\Users\\evanv\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
-      "cxxFolder": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\.cxx",
+      "cmakeToolchainFile": "C:\\Users\\calvi\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+      "cxxFolder": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\.cxx",
       "gradleModulePathName": ":TMessagesProj",
-      "intermediatesFolder": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\build\\intermediates",
-      "makeFile": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\jni\\Android.mk",
-      "moduleBuildFile": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\build.gradle",
-      "moduleRootFolder": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj",
+      "intermediatesFolder": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\build\\intermediates",
+      "makeFile": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\jni\\Android.mk",
+      "moduleBuildFile": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\build.gradle",
+      "moduleRootFolder": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
         "X86",
         "X86_64"
       ],
-      "ndkFolder": "C:\\Users\\evanv\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462",
+      "ndkFolder": "C:\\Users\\calvi\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462",
       "ndkMetaAbiList": [
         {
           "abi": "ARMEABI_V7A",
@@ -95,29 +95,29 @@
       "ndkDefaultStl": "SYSTEM",
       "ndkVersion": "21.1.6352462",
       "project": {
-        "compilerSettingsCacheFolder": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\.cxx",
-        "cxxFolder": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\.cxx",
+        "compilerSettingsCacheFolder": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\.cxx",
+        "cxxFolder": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\.cxx",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram",
-        "sdkFolder": "C:\\Users\\evanv\\AppData\\Local\\Android\\Sdk",
+        "rootBuildGradleFolder": "C:\\hbo-ict\\andere shit\\AD\\Telegram",
+        "sdkFolder": "C:\\Users\\calvi\\AppData\\Local\\Android\\Sdk",
         "isPrefabEnabled": false
       },
       "splitsAbiFilterSet": [],
       "stlSharedObjectMap": {
         "LIBCXX_SHARED": {
-          "ARMEABI_V7A": "C:\\Users\\evanv\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
-          "ARM64_V8A": "C:\\Users\\evanv\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
-          "X86": "C:\\Users\\evanv\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
-          "X86_64": "C:\\Users\\evanv\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+          "ARMEABI_V7A": "C:\\Users\\calvi\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "C:\\Users\\calvi\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "C:\\Users\\calvi\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "C:\\Users\\calvi\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
         },
         "LIBCXX_STATIC": {},
         "NONE": {},
         "SYSTEM": {}
       }
     },
-    "objFolder": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\build\\intermediates\\ndkBuild\\afatDebug\\obj\\local",
+    "objFolder": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\build\\intermediates\\ndkBuild\\afatDebug\\obj\\local",
     "variantName": "afatDebug",
     "validAbiList": [
       "ARMEABI_V7A",
@@ -125,8 +125,8 @@
       "X86",
       "X86_64"
     ],
-    "prefabDirectory": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\prefab",
+    "prefabDirectory": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\prefab",
     "prefabPackageDirectoryList": []
   },
-  "prefabFolder": "C:\\Users\\evanv\\Desktop\\schoolspul\\CIN Opdracht\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\prefab\\x86"
+  "prefabFolder": "C:\\hbo-ict\\andere shit\\AD\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\prefab\\x86"
 }
