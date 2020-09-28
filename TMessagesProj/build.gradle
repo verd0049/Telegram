@@ -58,6 +58,7 @@ android {
         foss {
             //test
             // comment
+            //test 
             debuggable false
             jniDebuggable false
             signingConfig signingConfigs.release
