@@ -48,7 +48,7 @@ public class JavaAudioDeviceModule implements AudioDeviceModule {
     private boolean useStereoInput;
     private boolean useStereoOutput;
 
-    //fhwdohgfiwhfihfiqhfqhefhqiohcaodsfiodhfioqehqibffhefiohfhwfp
+    //fjweipfjpwejfophfopsdhfasdjpgasjfwjpofjweopfjewaopfjopwafjo
     private Builder(Context context) {
       this.context = context;
       this.audioManager = (AudioManager) context.getSystemService(Context.AUDIO_SERVICE);
